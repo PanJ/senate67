@@ -10,3 +10,4 @@ Raw senate 67 candidate data from [senator.ect.go.th](https://senator.ect.go.th)
 
 - `district-candidates.json` Raw district-level candidates
 - `province-districts.json` Provinces and districts master data
+- `job-groups.json` Job group master data
