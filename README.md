@@ -8,6 +8,8 @@ Raw senate 67 candidate data from [senator.ect.go.th](https://senator.ect.go.th)
 
 > Note: Data extraction timestamp is included in the file name
 
-- `district-candidates.json` Raw district-level candidates
+- `district-candidates.json` Raw district-level candidates (before pre-screened by ECT)
+- `district-candidates-round1.json` Round #1 (District-level) candidates
+- `district-candidates-round2.json` Round #2 (Province-level) candidates
 - `province-districts.json` Provinces and districts master data
 - `job-groups.json` Job group master data
